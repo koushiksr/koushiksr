@@ -2,9 +2,9 @@
 ![Model](https://github-readme-stats.vercel.app/api/top-langs/?username=koushiksr&theme=synthwave%20%E2%80%9Ckoushik%E2%80%99%20Top%20Languages%20Card%E2%80%9D)
 [![Linkedin: koushik](https://img.shields.io/badge/-koushiksr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/koushiksr/)](https://www.linkedin.com/in/koushiksr/)
 
-<p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
-</p>
+<!--  <p align="center"> -->
+<!--   <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a> -->
+<!-- </p> -->
 
 <h3 align="center">
 Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yu</a> 👋

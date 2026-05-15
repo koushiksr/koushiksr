@@ -1,70 +1,59 @@
-![Model](https://github-readme-stats.vercel.app/api?username=koushiksr&theme=synthwave&show_icons=true&count_private=true%20%E2%80%9CKoushik%E2%80%99%20GitHub%20Stats)
-![Model](https://github-readme-stats.vercel.app/api/top-langs/?username=koushiksr&theme=synthwave%20%E2%80%9Ckoushik%E2%80%99%20Top%20Languages%20Card%E2%80%9D)
-[![Linkedin: koushik](https://img.shields.io/badge/-koushiksr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/koushiksr/)](https://www.linkedin.com/in/koushiksr/)
-
-<!--  <p align="center"> -->
-<!--   <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a> -->
-<!-- </p> -->
+<h1 align="center">Hi there, I'm Koushik 👋</h1>
 
 <h3 align="center">
-<!-- Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yu</a> 👋 -->
+  AI/ML Automation Engineer 🤖 | Full-Stack Developer 💻
 </h3>
 
-<h2 align="center">
-I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
-</h2> 
+<p align="center">
+  I'm passionate about building scalable web applications, designing intelligent automation frameworks, and working with the MERN stack. I love exploring the possibilities of Generative AI, integrating LLMs, and building custom modular tools from the ground up.
+</p>
 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+<div align="center">
 
-### 🤝 Connect with me:
+[![Linkedin: koushik](https://img.shields.io/badge/-koushiksr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/koushiksr/)](https://www.linkedin.com/in/koushiksr/)
+[![Instagram](https://img.shields.io/badge/-koushik__medala-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/koushik_medala)](https://instagram.com/koushik_medala)
 
-<a href="https://www.linkedin.com/in/koushiksr/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/koushik_medala"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<!--<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>-->
-</br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+</div>
 
-## 🔭 I'm currently working on
+---
 
+### 🔭 What I'm working on:
+- Building end-to-end AI solutions and exploring Agentic AI architectures.
+- Developing robust test automation frameworks using **Python**, **Selenium**, and **Pytest**.
+- Architecting full-stack applications utilizing the **MERN stack** (MongoDB, Express, React, Node.js).
+- Creating custom data tools and modular financial terminals.
 
-## 💼 Technical Skills
+### 💼 Technical Skills
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
+**Languages & Frameworks:**
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=3776AB)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
-![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&color=339933)
+![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=Express&color=000000)
+
+**AI & Automation:**
+![](https://img.shields.io/badge/AI-Machine_Learning-informational?style=flat&logo=OpenAI&color=412991)
+![](https://img.shields.io/badge/Automation-Selenium-informational?style=flat&logo=Selenium&color=43B02A)
+![](https://img.shields.io/badge/Testing-Pytest-informational?style=flat&logo=pytest&color=0A9EDC)
+
+**Databases:**
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&color=47A248)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 
-</br>
-
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
-
-
-</br>
-
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
+**Tools:**
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&color=2496ED)
 
-## 📝 Latest Blog Posts
+---
 
-- [Deploy Rails API Backend to Heroku and React Frontend to Netlify](https://yushi95.medium.com/deploy-rails-api-backend-to-heroku-and-react-frontend-to-netlify-b515239d5022)
-- [Animation Login Popup Form by Using React State Hook and CSS](https://medium.com/geekculture/animation-login-popup-form-by-using-react-state-hook-and-css-7ecf803f1fa9)
-- [Checklist ✅ for Rails Application](https://yushi95.medium.com/checklist-for-rails-application-30868cb4f48b)
-- [Self and Operator in Ruby](https://blog.usejournal.com/self-in-ruby-5e8a91fa4602)
+### 📈 GitHub Stats
 
-## 📈 GitHub Stats 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=koushiksr&theme=synthwave&show_icons=true&count_private=true" alt="Koushik's GitHub Stats" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushiksr&theme=synthwave&layout=compact" alt="Koushik's Top Languages" />
+</p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/yushi1007)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)

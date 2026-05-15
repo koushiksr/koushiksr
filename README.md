@@ -52,13 +52,3 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&color=2496ED)
 
 ---
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=koushiksr&theme=synthwave&show_icons=true&count_private=true" alt="Koushik's GitHub Stats" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushiksr&theme=synthwave&layout=compact" alt="Koushik's Top Languages" />
-</p>
-
